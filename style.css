@@ -1,0 +1,16 @@
+{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-color: ;
+     display: flex;
+     justify-content: space-around ;
+     align-items: center;
+     padding: 24px 0;
+}
+
+.cabecalho-imagem{
+   width: 20%;
+}
