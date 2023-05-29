@@ -19,7 +19,7 @@
 }
 .cabecalho-titulo{
     color: rgb(0, 0, 0);
-    font-size: 50px;  
+    font-size: 90px;  
 
 }
 
@@ -30,7 +30,7 @@
 .cabecalho-lista-item{
     display: inline;
     margin: 0 16px;
-    font-size: 24px;
+    font-size: 90px;
 }
 
 .home{
