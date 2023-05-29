@@ -1,6 +1,6 @@
 :root{
 
-    --titulo-secindario: #1201ff;
+    --titulo-secindario: #1f9df1;
     --textos: #FFFFFF;
 }
 
@@ -10,7 +10,7 @@
     font-family: 'Poppins', sans-serif;
 }
 .cabecalho {
-    background-color: #68c5cc;
+    background-color: #18f0ff;
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-between;
