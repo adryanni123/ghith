@@ -1,5 +1,6 @@
 :root{
 
+    --titulo-secindario
     --titulo-secindario: #54b1ce
     --textos: #FFFFFF;
 }
@@ -11,7 +12,7 @@
 }
 .cabecalho {
     background-color: #54b1ce;
-    color: rgb(0, 0, 0);
+    color: rgba(0, 0, 0, 0);
     display: flex;
     justify-content: space-between;
     align-items: center;
